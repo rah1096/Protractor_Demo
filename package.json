@@ -1,5 +1,5 @@
 {
-  "name": "amyApp",
+  "name": "testApp",
   "version": "0.0.1",
   "devDependencies": {
     "doge-debug": "^1.0.3",
